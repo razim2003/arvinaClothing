@@ -97,6 +97,7 @@
 
 .product-card:hover {
     transform: translateY(-10px);
+   
 }
 
 .product-images {
